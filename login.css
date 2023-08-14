@@ -91,10 +91,11 @@ button:hover{
 
 @media (max-width: 800px){
     .container{
-        width: 100%;
+        width: 75%;
+        height: auto;
         max-width: 750px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 200px;
+        margin-right: 200px;
     }
     form{
         width: 300px;
